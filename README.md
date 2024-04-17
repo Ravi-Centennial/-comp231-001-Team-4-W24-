@@ -1,1 +1,2 @@
-# -comp231-001-Team-4-W24-
+# Student-Dashboard
+A minimal, responsive and dynamic Student Dashboard  project made up using HTML, CSS &amp; JavaScript
